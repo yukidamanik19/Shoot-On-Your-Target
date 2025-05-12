@@ -1,1 +1,3 @@
-# Shoot-On-Your-Target-
+This is the final project of the Microprocessor Based Systems course, developed in collaboration with the Product Design Innovation department. The project involves creating a gamified version of Throwing Balls integrated with various knowledge of waste types, utilizing a microcontroller, various hardware components, and Arduino programming.
+
+Key Features: Consists of 2 Modes (Solo or Versus) that can be selected via physical buttons. LCD display that displays each player's score. Different ball colors and object images representing waste. Three different ball baskets representing waste types (organic, inorganic, and B3). Integrated sound effects using DFPlayer Mini for an immersive experience. The game reset function is triggered by a physical switch, along with a simple mode selection.
